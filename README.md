@@ -72,7 +72,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Akshara-P-Vijayan/Akshara-P-Vijayan/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Akshara-P-Vijayan/Akshara-P-Vijayan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
